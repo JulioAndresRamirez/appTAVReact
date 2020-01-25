@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>noun_Time_2166007</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.2%" y="-25.0%" width="110.4%" height="150.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0998358243 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="InputField-Copy-8" transform="translate(-32.000000, -509.000000)" fill="#353535" fill-rule="nonzero">
+            <g id="Group-4" filter="url(#filter-1)" transform="translate(19.000000, 490.000000)">
+                <g id="noun_Time_2166007" transform="translate(20.000000, 24.000000)">
+                    <path d="M11,0 C4.91333333,0 0,4.91333333 0,11 C0,17.0866667 4.91333333,22 11,22 C17.0866667,22 22,17.0866667 22,11 C22,4.91333333 17.0866667,0 11,0 Z M15.828741,15.8461538 C15.7291794,15.9487179 15.5798369,16 15.4304944,16 C15.2811518,16 15.1318093,15.9487179 15.0322477,15.8205128 L11.1493425,11.7692308 C11.0497808,11.6666667 11,11.5128205 11,11.3589744 L11,3.58974359 C11,3.28205128 11.2489042,3 11.5724796,3 C11.8711646,3 12.1449592,3.25641026 12.1449592,3.58974359 L12.1449592,11.1282051 L15.8536315,15.025641 C16.0527548,15.2564103 16.0527548,15.6153846 15.828741,15.8461538 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

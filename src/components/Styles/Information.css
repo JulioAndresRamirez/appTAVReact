@@ -1,0 +1,212 @@
+.Information {
+    padding-top: 80px;
+    position: relative;
+    width: 100%;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 35% 1fr;
+    grid-template-areas:
+        "box1"
+        "box2";
+    background: #f9f9ff !important ;
+}
+
+.title {
+    grid-template: grid1;
+    margin-top: 25px;
+    padding: 30px 20px;
+    width: 100%;
+    font-size: 70px;
+    color: #ffffff;
+    line-height: 63px;
+    font-weight: bolder;
+    align-self: center;
+}
+
+.info {
+    width: 100%;
+    padding-bottom: 30px;
+    padding: 0 10px 30px 10px;
+    grid-template: grid2;
+}
+
+.subtitle {
+    font-size: 14px;
+    color: #ffffff;
+    padding-left: 5px;
+}
+
+.tile {
+    width: 98%;
+    background: white;
+    color: black;
+    margin: 20px auto;
+    /*
+    display: grid;
+    grid-template-columns: 15% 1fr;
+    grid-template-rows: 1fr;
+    */
+    justify-items: start;
+    align-items: center;
+    border-radius: 15px;
+    padding: 20px 20px 20px 20px;
+    box-shadow: 0 5px 13px 0 rgba(0, 0, 0, 0.11);
+}
+
+.asignatura {
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 5px;
+    text-transform: capitalize;
+}
+
+.fecha {
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row nowrap;
+    margin: 0 15px 0 0;
+}
+
+.fecha img {
+    margin: 0 10px 0 0;
+}
+.fecha p {
+    margin-left: 0px;
+}
+
+.hora {
+    display: flex;
+    justify-content: flex-start;
+    flex-flow: row nowrap;
+    margin: 0;
+}
+
+.hora img {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.hora p {
+    margin-left: 0px;
+}
+
+.tales_description {
+    margin: 20px 0 20px 0;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.sala,
+.docente {
+    margin-top: 20px;
+}
+
+.sala > .title2 {
+    font-size: 14px;
+}
+
+.docente > .title2 {
+    font-size: 14px;
+}
+
+.sala_result {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.docente_result {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dates_descripcion {
+    width: 100%;
+    margin: 0;
+    justify-self: self-start;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-content: center;
+    font-size: 14px;
+}
+
+.proctor_descripcion {
+    width: 100%;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.place_descripcion {
+    width: 100%;
+    margin: 0;
+    padding-left: 20px;
+}
+
+.test_descripcion {
+    width: 100%;
+    margin: 0;
+    padding: 0 30px 0 20px;
+}
+
+.titles {
+    font-size: 14px;
+    color: #a6a6a6;
+}
+
+.info_text {
+    font-weight: normal;
+    font-size: 17px;
+    color: #000000;
+}
+
+.info_test_text {
+    padding: 4px 0;
+    font-size: 12px;
+    color: #000000;
+}
+
+.titles_toeic {
+    font-weight: bold;
+    font-size: 12px;
+    color: #000000;
+}
+
+.btn_ok {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+    text-align: center;
+    width: 338px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+    background: #016cff;
+    box-shadow: 0 5px 13px 0 rgba(0, 0, 0, 0.11);
+    border-radius: 15px;
+}
+
+@media screen and (max-width: 376px) {
+    body {
+        background-size: 900px;
+        background-position-y: 80px !important;
+    }
+}
+
+.et_title {
+    font-size: 120px !important;
+}
+
+.nombre_alumno {
+    text-transform: capitalize !important;
+    font-size: 36px;
+    color: #252525;
+    letter-spacing: -0.23px;
+}

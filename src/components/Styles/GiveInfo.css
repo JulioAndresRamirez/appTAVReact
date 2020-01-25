@@ -1,0 +1,98 @@
+.GiveInfo {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100);
+    text-align: left;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-areas:
+        "box1"
+        "box2";
+    color: black;
+    background: #f9f9ff !important ;
+}
+
+.Desc {
+    grid-area: box1;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 50px 12px 0 12px;
+}
+
+.formID {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+}
+
+.formID input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    opacity: 0.58;
+    margin-bottom: 7px;
+    font-size: 23px;
+    color: black;
+    padding: 5px;
+    border-bottom: 2px solid black;
+}
+
+.formID input::-webkit-input-placeholder {
+    font-size: 18px !important;
+    text-transform: none !important;
+}
+
+.formIDError input {
+    width: 100%;
+    background: transparent;
+    border: none;
+    opacity: 0.58;
+    font-size: 23px;
+    color: black;
+    padding: 5px;
+    border-bottom: 2px solid #ff4c4c;
+}
+
+.formID input:focus {
+    outline: transparent;
+}
+
+.Action {
+    grid-area: box2;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-end;
+    align-content: center;
+    padding: 20px 0;
+}
+
+.Text1 {
+    font-size: 36px;
+    color: black;
+    line-height: 41px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.Text2 {
+    padding: 10px;
+
+    font-size: 24px;
+    color: black;
+    font-weight: normal;
+    text-align: start;
+    margin-left: 0;
+}
+
+.smallText {
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: #ff4c4c;
+}

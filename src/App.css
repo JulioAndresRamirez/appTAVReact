@@ -1,0 +1,23 @@
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: all ease-in-out 1s;
+    background-position-y: 350px;
+}
+
+.contenedor {
+    position: relative;
+    width: 100%;
+    max-width: 376px;
+    height: 100vh;
+    /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100);
+}
+
+@media screen and (max-width: 376px) {
+    body {
+        background-size: 900px;
+        background-position-y: 220px;
+    }
+}

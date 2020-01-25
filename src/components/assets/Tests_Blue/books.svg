@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="631px" height="408px" viewBox="0 0 631 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-4.4%" y="-7.3%" width="108.7%" height="114.6%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-244.000000, -169.000000)">
+            <g id="Group-2" transform="translate(248.000000, 171.000000)">
+                <g id="CodejamRecurso-1-Copy-5" filter="url(#filter-1)" transform="translate(348.000000, 236.000000)">
+                    <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                    <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                    <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                    <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                    <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                    <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                    <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                    <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                    <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                    <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                    <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                    <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                    <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                    <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                    <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                    <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                    <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                    <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                    <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                    <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                    <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                    <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                    <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                    <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                    <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                    <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                    <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                    <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                    <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                    <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                    <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                    <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                    <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                    <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                    <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                    <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                    <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                    <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                    <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                    <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                    <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                    <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                    <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                    <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                    <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                    <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                </g>
+                <g id="Group" transform="translate(0.000000, 108.000000)">
+                    <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-2)" transform="translate(6.000000, 11.000000)">
+                        <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                        <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                        <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                        <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                        <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                        <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                        <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                        <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                        <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                        <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                        <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                        <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                        <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                        <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                        <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                        <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                        <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                        <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                        <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                        <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                        <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                        <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                        <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                        <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                        <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                        <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                        <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                        <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                        <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                        <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                        <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                        <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                        <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                        <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                        <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                        <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                        <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                        <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                        <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                        <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                        <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                        <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                        <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                        <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                        <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                        <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                    </g>
+                    <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-3)" transform="translate(3.000000, 6.000000)">
+                        <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                        <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                        <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                        <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                        <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                        <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                        <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                        <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                        <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                        <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                        <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                        <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                        <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                        <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                        <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                        <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                        <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                        <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                        <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                        <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                        <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                        <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                        <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                        <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                        <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                        <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                        <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                        <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                        <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                        <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                        <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                        <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                        <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                        <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                        <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                        <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                        <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                        <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                        <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                        <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                        <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                        <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                        <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                        <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                        <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                        <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                    </g>
+                    <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-4)">
+                        <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                        <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                        <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                        <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                        <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                        <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                        <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                        <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                        <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                        <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                        <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                        <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                        <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                        <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                        <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                        <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                        <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                        <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                        <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                        <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                        <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                        <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                        <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                        <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                        <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                        <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                        <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                        <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                        <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                        <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                        <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                        <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                        <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                        <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                        <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                        <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                        <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                        <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                        <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                        <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                        <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                        <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                        <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                        <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                        <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                        <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                        <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                        <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                    </g>
+                </g>
+                <g id="Group-Copy-4" transform="translate(298.000000, 95.000000)">
+                    <g id="Group-Copy-3">
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-5)" transform="translate(0.000000, 9.000000)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-6)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-Copy-2" transform="translate(106.000000, 200.340909)">
+                    <g id="Group-Copy" transform="translate(0.000000, 0.340909)">
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-7)" transform="translate(15.000000, 28.000000)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-8)" transform="translate(12.000000, 23.000000)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-9)" transform="translate(9.000000, 17.000000)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-10)" transform="translate(7.000000, 11.000000)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-11)" transform="translate(4.000000, 5.000000)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                        <g id="CodejamRecurso-1-Copy-6" filter="url(#filter-12)">
+                            <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                            <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                            <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                            <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                            <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                            <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                            <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                            <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                            <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                            <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                            <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                            <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                            <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                            <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                            <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                            <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                            <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                            <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                            <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                            <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                            <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                            <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                            <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                            <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                            <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                            <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                            <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                            <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                            <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                            <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                            <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                            <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                            <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                            <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                            <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                            <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                            <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                            <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                            <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                            <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                            <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                            <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                            <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                            <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                            <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="CodejamRecurso-1-Copy-8" filter="url(#filter-13)" transform="translate(192.000000, 0.000000)">
+                    <polygon id="Path" fill="#020928" points="155.95923 14 156 14.478582 150.04077 18 150 17.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="145.959184 20 146 20.4844904 140.034014 24 140 23.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="127.95923 33 128 33.478582 122.04077 37 122 36.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="118.959184 39 119 39.4792899 113.034014 43 113 42.5147929"></polygon>
+                    <polygon id="Path" fill="#020928" points="108.959184 45 109 45.4792899 103.034014 49 103 48.5207101"></polygon>
+                    <polygon id="Path" fill="#01061B" points="215.960591 42.4640494 216 43 156.039409 13.5359506 156 13"></polygon>
+                    <polygon id="Path" fill="#000416" points="209.960591 46.4640494 210 47 150.039409 17.5425673 150 17"></polygon>
+                    <polygon id="Path" fill="#000620" points="215.95923 43 216 43.4792899 210.04077 47 210 46.5207101"></polygon>
+                    <polygon id="Path" fill="#020928" points="99.9660249 52 100 52.4844904 94.0407701 56 94 55.521418"></polygon>
+                    <polygon id="Path" fill="#01061B" points="205.960591 49.4640494 206 50 146.039409 20.5425673 146 20"></polygon>
+                    <polygon id="Path" fill="#000620" points="205.959184 49 206 49.4792899 200.034014 53 200 52.5207101"></polygon>
+                    <polygon id="Path" fill="#000416" points="199.967156 53.4640494 200 54 140.032844 24.5425673 140 24"></polygon>
+                    <polygon id="Path" fill="#020928" points="89.9591837 58 90 58.4792899 84.0340136 62 84 61.5207101"></polygon>
+                    <polygon id="Path" fill="#020928" points="80.9592299 65 81 65.478582 75.0339751 69 75 68.5155096"></polygon>
+                    <polygon id="Path" fill="#020928" points="64.9671188 75 65 75.5153268 49.0328812 86 49 85.4846732"></polygon>
+                    <polygon id="Path" fill="#01061B" points="223.960904 79.4759086 224 80 128.039096 33.5240914 128 33"></polygon>
+                    <polygon id="Path" fill="#000620" points="223.95923 80 224 80.4792899 218.033975 84 218 83.5207101"></polygon>
+                    <polygon id="Path" fill="#000416" points="217.967418 83.4759086 218 84 122.032582 37.5305617 122 37"></polygon>
+                    <polygon id="Path" fill="#000829" points="224 79.0986115 218.267239 83 122 35.9013885 127.732761 32"></polygon>
+                    <polygon id="Path" fill="#01061B" points="214.960904 85.4694383 215 86 119.039096 39.5240914 119 39"></polygon>
+                    <polygon id="Path" fill="#020928" points="42.9671188 90 43 90.5153268 27.0328812 101 27 100.484673"></polygon>
+                    <polygon id="Path" fill="#000620" points="214.959184 86 215 86.4844904 209.034014 90 209 89.5155096"></polygon>
+                    <polygon id="Path" fill="#000829" points="215 86.0981098 209.273409 90 113 42.8953324 118.726591 39"></polygon>
+                    <polygon id="Path" fill="#000416" points="208.967418 89.4695114 209 90 113.032582 43.5304886 113 43"></polygon>
+                    <polygon id="Path" fill="#01061B" points="204.967418 91.4694383 205 92 109.039099 45.5240914 109 45"></polygon>
+                    <polygon id="Path" fill="#000620" points="204.965986 92 205 92.4844904 199.040816 96 199 95.5155096"></polygon>
+                    <polygon id="Path" fill="#000416" points="199.960901 95.4694383 200 96 104.032582 49.5240914 104 49"></polygon>
+                    <polygon id="Path" fill="#01061B" points="195.960901 98.4695114 196 99 100.032582 52.5304886 100 52"></polygon>
+                    <polygon id="Path" fill="#000620" points="195.95923 99 196 99.4844904 190.04077 103 190 102.521418"></polygon>
+                    <polygon id="Path" fill="#000416" points="189.960904 102.475909 190 103 94.0390959 56.5240914 94 56"></polygon>
+                    <polygon id="Path" fill="#01061B" points="185.967418 104.469438 186 105 90.0390986 58.5240914 90 58"></polygon>
+                    <polygon id="Path" fill="#000620" points="185.965948 105 186 105.47929 180.034052 109 180 108.514793"></polygon>
+                    <polygon id="Path" fill="#000416" points="179.967418 108.469438 180 109 84.0325821 62.5240914 84 62"></polygon>
+                    <polygon id="Path" fill="#01061B" points="176.967418 111.475909 177 112 81.0390986 65.5240914 81 65"></polygon>
+                    <polygon id="Path" fill="#000620" points="176.965986 112 177 112.47929 171.034014 116 171 115.52071"></polygon>
+                    <polygon id="Path" fill="#000829" points="177 111.098611 171.267239 115 75 67.9013885 80.7327608 64"></polygon>
+                    <polygon id="Path" fill="#000416" points="170.967418 115.475909 171 116 75.0325821 69.5305617 75 69"></polygon>
+                    <polygon id="Path" fill="#01061B" points="160.967418 121.475909 161 122 65.0325821 75.5240914 65 75"></polygon>
+                    <polygon id="Path" fill="#000416" points="144.960901 132.475909 145 133 49.0325821 86.5240914 49 86"></polygon>
+                    <polygon id="Path" fill="#000829" points="161 122.176311 145.141766 133 49 85.8236893 64.851705 75"></polygon>
+                    <polygon id="Path" fill="#000620" points="160.967132 122 161 122.515327 145.039441 133 145 132.484673"></polygon>
+                    <polygon id="Path" fill="#01061B" points="138.967418 136.475909 139 137 43.0325821 90.5240914 43 90"></polygon>
+                    <polygon id="Path" fill="#000416" points="122.967418 147.469438 123 148 27.0325821 101.524091 27 101"></polygon>
+                    <polygon id="Path" fill="#000620" points="138.967119 137 139 137.515327 123.032881 148 123 147.478311"></polygon>
+                    <polygon id="Path" fill="#000829" points="139 137.181653 123.148295 148 27 100.824915 42.851705 90"></polygon>
+                    <path d="M155.562531,0 L275,58.3282157 L119.437469,164 L0,105.704399 L155.562531,0 Z M122.844756,147.725241 L138.662908,136.981943 L42.7181303,90.1275953 L26.8999787,100.877416 L122.844756,147.725241 Z M144.812963,132.794209 L160.63763,122.050911 L64.6928526,75.1965635 L48.8616711,85.9463845 L144.799934,132.794209 L144.812963,132.794209 Z M217.766696,83.2197916 L223.480254,79.3386365 L127.528962,32.4973351 L121.815404,36.4111049 L217.760181,83.2328375 L217.766696,83.2197916 Z M189.635403,102.34508 L195.348961,98.4313102 L99.4106986,51.6095776 L93.6906257,55.4907326 L189.635403,102.34508 Z M170.742224,115.182245 L176.455782,111.268475 L80.5110042,64.4467425 L74.7974462,68.3605123 L170.742224,115.21486 L170.742224,115.182245 Z M179.967307,108.933259 L185.67435,105.019489 L89.7360877,58.1781879 L84.0290446,62.0919577 L179.967307,108.933259 Z M199.303499,95.7960385 L205.017057,91.9148835 L109.07228,45.0409673 L103.365237,48.9547371 L199.303499,95.8025615 L199.303499,95.7960385 Z M208.535097,89.5340068 L214.242141,85.6202371 L118.297363,38.7724127 L112.59032,42.6470448 L208.535097,89.5013921 L208.535097,89.5340068 Z M155.647225,13.3850927 L149.933667,17.2662477 L209.408093,46.3129425 L215.121651,42.3991727 L155.647225,13.3850927 Z M145.979129,19.953703 L140.272085,23.834858 L199.746512,52.8815528 L205.453555,49.0003977 L145.979129,19.953703 Z" id="Shape" fill="#020C33" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#000829" points="215 42.1103407 209.302918 46 150 16.8896593 155.697082 13"></polygon>
+                    <polygon id="Path" fill="#000829" points="206 49.1103407 200.308846 53 141 23.8896593 146.691154 20"></polygon>
+                    <polygon id="Path" fill="#000829" points="205 92.0981098 199.266872 96 103 48.9018902 108.726591 45"></polygon>
+                    <polygon id="Path" fill="#000829" points="196 99.0925569 190.267239 103 94 55.9074431 99.7392976 52"></polygon>
+                    <polygon id="Path" fill="#000829" points="186 105.104668 180.273409 109 84 61.9018902 89.726591 58"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
