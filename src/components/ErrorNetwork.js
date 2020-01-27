@@ -25,7 +25,8 @@ export default function ErrorNetwork(props) {
                 <h1
                     style={{
                         fontSize: "24px",
-                        marginBottom: "10px"
+                        marginBottom: "10px",
+                        color: "black"
                     }}
                 >
                     Limited or unavailable network
