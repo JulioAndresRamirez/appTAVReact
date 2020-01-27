@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import "./Styles/Welcome.css";
 // Assets
 import Logo from "../components/assets/Logo_app/logo_tav.png";
-import ThanksImages from "../components/assets/Logo_app/LogoCitt.png";
+import ThanksImages from "../components/assets/Logo_app/logo_escuela_duoc.png";
 
 function welcome() {
     return (
@@ -31,9 +31,9 @@ function welcome() {
                         }}
                         className="Thanks--captions"
                     >
-                        Este proyecto fue realizado por alumnos del CITT de Duoc
-                        UC Sede Melipilla en colaboración con el Programa de
-                        Ingles
+                        Este proyecto fue realizado por alumnos de la escuela de
+                        Informática y Telecomunicaciones de Duoc UC Sede
+                        Melipilla.
                     </p>
 
                     <Link className="button" to="/GiveInfo">

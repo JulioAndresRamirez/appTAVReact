@@ -219,7 +219,7 @@ export default function Information(props) {
                 </div>
 
                 <button onClick={() => setFinish(true)} className="btn_ok">
-                    Continuar
+                    Finalizar
                 </button>
             </div>
         </div>
