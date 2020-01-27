@@ -29,7 +29,7 @@ export default function ErrorNetwork(props) {
                         color: "black"
                     }}
                 >
-                    Limited or unavailable network
+                    Red limitada o no disponible
                 </h1>
             </div>
         </div>
