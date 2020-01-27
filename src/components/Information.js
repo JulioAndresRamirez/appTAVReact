@@ -92,7 +92,11 @@ export default function Information(props) {
                     </p>
                 </h3>
                 <p
-                    style={{ color: "black", marginBottom: "-5px" }}
+                    style={{
+                        color: "black",
+                        marginBottom: "-5px",
+                        marginTop: "50px"
+                    }}
                     className="subtitle"
                 >
                     Información detallada
@@ -101,38 +105,6 @@ export default function Information(props) {
                 {/* ITERAR EL MOTION.DIV */}
                 <div className="tiles">
                     {data.results.map(prueba => {
-                        {
-                            /* <motion.div
-                            className="tile dates"
-                            initial={{ y: 30, opacity: 0 }}
-                            animate={{ y: 0, opacity: 1 }}
-                            transition={{ duration: 0.3, ease: "easeOut" }}
-                        >
-                    <p className="asignatura">{prueba.asignatura}</p>
-                            <p>{prueba.seccion}/p>
-                            <div className="tales_description">
-                                <div className="fecha">
-                                    <img src={calendar} alt="icono_calendario" />
-                                    <p className="info_text">{prueba.fecha}</p>
-                                </div>
-                                <div className="hora">
-                                    <img src={reloj} alt="icono_calendario" />
-                                    <p className="info_text">{prueba.hora_inicio} – {prueba.hora_fin} </p>
-                                </div>
-                            </div>
-    
-                            <div className="sala">
-                                <p className="title2">Sala</p>
-                        <p className="sala_result">{prueba.sala}</p>
-                            </div>
-    
-                            <div className="docente">
-                                <p className="title2">Docente</p>
-                        <p className="docente_result">{prueba.docente}</p>
-                            </div>
-                        </motion.div> */
-                        }
-
                         return (
                             <motion.div
                                 className="tile dates"

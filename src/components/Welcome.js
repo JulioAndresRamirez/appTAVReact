@@ -31,9 +31,8 @@ function welcome() {
                         }}
                         className="Thanks--captions"
                     >
-                        Este proyecto fue realizado por alumnos de la escuela de
-                        Informática y Telecomunicaciones de Duoc UC Sede
-                        Melipilla.
+                        Este proyecto fue realizado por alumnos de Duoc UC Sede
+                        Melipilla en colaboración con el Programa de Ingles.
                     </p>
 
                     <Link className="button" to="/GiveInfo">
