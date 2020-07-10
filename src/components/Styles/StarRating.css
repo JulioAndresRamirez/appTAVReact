@@ -1,70 +1,70 @@
 .StarRating {
-    position: relative;
-    width: 100%;
-    height: 100vh;
-    /* Fallback for browsers that do not support Custom Properties */
-    height: calc(var(--vh, 1vh) * 100);
-    text-align: left;
-    color: white;
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(2, 1fr);
-    grid-template-areas:
-        "box1"
-        "box2";
-    background: #f1f1ff !important ;
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  /* Fallback for browsers that do not support Custom Properties */
+  height: calc(var(--vh, 1vh) * 100);
+  text-align: left;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-areas:
+    'box1'
+    'box2';
+  background: #f1f1ff !important ;
 }
 
 .superior {
-    grid-area: box1;
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: flex-end;
-    align-items: flex-start;
-    padding: 50px 12px 0 12px;
+  grid-area: box1;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding: 50px 12px 0 12px;
 }
 
 .superior h2 {
-    font-size: 3rem;
-    color: black;
-    font-weight: 900;
+  font-size: 3rem;
+  color: black;
+  font-weight: 900;
 }
 
 .superior p {
-    color: #252525;
-    font-size: 0.75rem;
-    opacity: 0.7;
-    font-weight: 600;
-    margin-top: 20px;
-    margin-bottom: 15px;
+  color: #252525;
+  font-size: 0.75rem;
+  opacity: 0.7;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .Action {
-    grid-area: box2;
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: flex-end;
-    align-content: center;
-    padding: 20px 0;
+  grid-area: box2;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-end;
+  align-content: center;
+  padding: 20px 0;
 }
 
 .btn_rating {
-    display: block;
-    width: 338px;
-    height: 60px;
-    background: #016cff;
-    box-shadow: 0 5px 13px 0 rgba(0, 0, 0, 0.11);
-    border-radius: 15px;
-    border: none;
-    color: white;
-    font-size: 18px;
-    font-weight: bold;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: block;
+  width: 338px;
+  height: 60px;
+  background: rgba(255, 184, 0, 1);
+  box-shadow: 0 5px 13px 0 rgba(0, 0, 0, 0.11);
+  border-radius: 15px;
+  border: none;
+  color: black;
+  font-size: 20px;
+  font-weight: bolder;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .MuiRating-iconEmpty {
-    color: #eff2fb77 !important;
+  color: #eff2fb77 !important;
 }
